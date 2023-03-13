@@ -1,0 +1,12 @@
+.container{
+    box-shadow:0 0 10px #000;
+    width:90%;
+    margin:3em auto;
+}
+.box{
+    width:80%;
+    background-color:pink;
+    margin:0 auto;
+    padding:.5em;
+    font-size:1.1rem;
+}
